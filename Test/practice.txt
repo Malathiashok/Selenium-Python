@@ -1,0 +1,12 @@
+testautomationpractiseblogspot
+
+alert window
+search with selenium and click each link
+capture all window id and title
+and close all windows by quit
+
+
+datepick ass mini proj
+
+https://www.dummyticket.com/dummy-ticket-for-visa-application/
+provide all the detail and test
